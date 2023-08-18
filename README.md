@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software developer with a passion for videogames and philosopy<br>🖥️ Currently learning Angular/Electron/Ionic and searching for new frameworks<br>📥 Shoot me an Email or add me on Linkedin :)
+🔭 I'm a Software developer with a passion for videogames and philosophy<br>🖥️ Currently learning Angular/Electron/Ionic and searching for new frameworks<br>📥 Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
